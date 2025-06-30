@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm a TimoshaMoscow!
+
+https://github.com/anuraghazra/github-readme-stats
 
 <!--
 **TimoshaMoscow/TimoshaMoscow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
