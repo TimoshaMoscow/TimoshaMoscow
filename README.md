@@ -1,16 +1,15 @@
-## Hi there, I'm a TimoshaMoscow!
+# Привет, я TimoshaMoscow! 👋
 
-<!--
-**TimoshaMoscow/TimoshaMoscow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=TimoshaMoscow&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## 🚀 Language's Top
+![Language's Top](https://github-readme-stats.vercel.app/api/top-langs/?username=TimoshaMoscow&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Streak
+![Streak](https://streak-stats.demolab.com/?user=TimoshaMoscow&theme=radical)
+
+## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
