@@ -1,7 +1,7 @@
 # Привет, я Timosha_Moscow! 👋
 Я начинающий программист, программирую на Python и HTML
 
-## 📊 GitHub стата
+## 📊 Моя активность на Github
 ![Stats](https://github-readme-stats.vercel.app/api?username=TimoshaMoscow&show_icons=true&theme=radical)
 
 ## 🚀 Языки
